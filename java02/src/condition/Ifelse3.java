@@ -90,6 +90,8 @@ public class Ifelse3 {
 		else {
 			System.out.println("평년");
 		}
+		
+		y.close();
 
 	}
 
